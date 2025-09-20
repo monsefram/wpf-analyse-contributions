@@ -18,7 +18,6 @@ namespace tpfred.Views
         {
             var dlg = new OpenFileDialog
             {
-                Filter = "CSV (*.csv)|*.csv",
                 Title = "Choisir un fichier contributions.csv"
             };
 

@@ -118,49 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Année financière" xml:space="preserve">
-    <value>Année financière</value>
+    <value>Financial year</value>
   </data>
   <data name="BtnAjouter" xml:space="preserve">
-    <value>Ajouter</value>
+    <value>Add</value>
   </data>
   <data name="BtnEffacer" xml:space="preserve">
-    <value>Effacer</value>
+    <value>Clear</value>
   </data>
   <data name="Candidat" xml:space="preserve">
-    <value>Candidat</value>
+    <value>Candidate</value>
   </data>
   <data name="Code postal" xml:space="preserve">
-    <value>Code postal</value>
+    <value>ZIP code</value>
   </data>
   <data name="Date événement" xml:space="preserve">
-    <value>Date événement</value>
+    <value>Event date</value>
   </data>
   <data name="Décompte" xml:space="preserve">
-    <value>Décompte</value>
+    <value>Count</value>
   </data>
   <data name="Illégale ?" xml:space="preserve">
-    <value>Illégale ?</value>
+    <value>Illegal ?</value>
   </data>
   <data name="Illégales_seulement" xml:space="preserve">
-    <value>Illégales seulement</value>
+    <value>illegal only</value>
   </data>
   <data name="Montant" xml:space="preserve">
-    <value>Montant</value>
+    <value>Amount</value>
   </data>
   <data name="Municipalité" xml:space="preserve">
-    <value>Municipalité</value>
+    <value>Municipality</value>
   </data>
   <data name="Nb._Versements" xml:space="preserve">
-    <value>Nb. Versements</value>
+    <value>Nb. payment</value>
   </data>
   <data name="Nom" xml:space="preserve">
-    <value>Nom</value>
+    <value>Last name</value>
   </data>
   <data name="Parti" xml:space="preserve">
-    <value>Parti</value>
+    <value>Party</value>
   </data>
   <data name="Prénom" xml:space="preserve">
-    <value>Prénom</value>
+    <value>First name</value>
   </data>
   <data name="Type" xml:space="preserve">
     <value>Type</value>

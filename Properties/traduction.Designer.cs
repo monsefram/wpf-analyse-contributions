@@ -59,5 +59,149 @@ namespace tpfred.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Année financière.
+        /// </summary>
+        public static string Année_financière {
+            get {
+                return ResourceManager.GetString("Année financière", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Ajouter.
+        /// </summary>
+        public static string BtnAjouter {
+            get {
+                return ResourceManager.GetString("BtnAjouter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Effacer.
+        /// </summary>
+        public static string BtnEffacer {
+            get {
+                return ResourceManager.GetString("BtnEffacer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Candidat.
+        /// </summary>
+        public static string Candidat {
+            get {
+                return ResourceManager.GetString("Candidat", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Code postal.
+        /// </summary>
+        public static string Code_postal {
+            get {
+                return ResourceManager.GetString("Code postal", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Date événement.
+        /// </summary>
+        public static string Date_événement {
+            get {
+                return ResourceManager.GetString("Date événement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Décompte.
+        /// </summary>
+        public static string Décompte {
+            get {
+                return ResourceManager.GetString("Décompte", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Illégale ?.
+        /// </summary>
+        public static string Illégale__ {
+            get {
+                return ResourceManager.GetString("Illégale ?", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Illégales seulement.
+        /// </summary>
+        public static string Illégales_seulement {
+            get {
+                return ResourceManager.GetString("Illégales_seulement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Montant.
+        /// </summary>
+        public static string Montant {
+            get {
+                return ResourceManager.GetString("Montant", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Municipalité.
+        /// </summary>
+        public static string Municipalité {
+            get {
+                return ResourceManager.GetString("Municipalité", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Nb. Versements.
+        /// </summary>
+        public static string Nb__Versements {
+            get {
+                return ResourceManager.GetString("Nb._Versements", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Nom.
+        /// </summary>
+        public static string Nom {
+            get {
+                return ResourceManager.GetString("Nom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Parti.
+        /// </summary>
+        public static string Parti {
+            get {
+                return ResourceManager.GetString("Parti", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Prénom.
+        /// </summary>
+        public static string Prénom {
+            get {
+                return ResourceManager.GetString("Prénom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Type.
+        /// </summary>
+        public static string Type {
+            get {
+                return ResourceManager.GetString("Type", resourceCulture);
+            }
+        }
     }
 }
